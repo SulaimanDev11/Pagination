@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270010570864",
+    "project_id": "paginationexample-2034f",
+    "storage_bucket": "paginationexample-2034f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270010570864:android:6bb6303ee3297969f3bcb5",
+        "android_client_info": {
+          "package_name": "com.bitscharm.pagination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270010570864-hsat9dk47v2du8gd0551ehtelknfh688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnoNDPWxbiEgVV8opZ5pM-eRsrgL2C-h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270010570864-hsat9dk47v2du8gd0551ehtelknfh688.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
